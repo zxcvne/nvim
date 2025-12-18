@@ -58,7 +58,7 @@ require("lazy").setup({
   },
 
   -- =========================
-  -- Treesitter (🔥 중요)
+  -- Treesitter 
   -- =========================
 {
   "nvim-treesitter/nvim-treesitter",
