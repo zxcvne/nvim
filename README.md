@@ -1,6 +1,6 @@
 # Neovim Config
 
-- [ x ] Version : 0.11 + 이상
+- [x] Version : 0.11 + 이상
 
 ### 디렉토리 구조
 ```
