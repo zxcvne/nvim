@@ -19,12 +19,12 @@ opt.clipboard = "unnamedplus"
 
 -- 일반 줄번호
 vim.api.nvim_set_hl(0, "LineNr", {
-  fg = "#d19a66", -- 오렌지 (OneDark 계열)
+  fg = "#d19a66", 
 })
 
 -- 현재 줄 번호
 vim.api.nvim_set_hl(0, "CursorLineNr", {
-  fg = "#ff9e64", -- 조금 더 밝은 오렌지
+  fg = "#ff9e64", -- 조금 더 밝은 
   bold = true,
 })
 
