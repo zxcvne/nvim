@@ -1,4 +1,4 @@
-# Neovim Config
+# Neovim 
 
 - [x] Version : 0.11 + 이상
 
